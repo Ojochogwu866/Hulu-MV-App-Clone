@@ -1,3 +1,5 @@
+THIS IS A BUILD OF THE HULU MOVIE APP. A CLONE BUILT DURING MY SKILL TEST CHALLENGE.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
